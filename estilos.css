@@ -1,0 +1,39 @@
+html {
+    width: 800px;
+    
+}
+
+
+.Primera img {
+    width: 80px;
+    height: 125px;
+    float: right;
+    padding-left: 20px;
+    
+   
+}
+.Segunda img {
+    width: 80px;
+    height: 125px;
+    float: left;
+    padding-left: 90px;
+}
+
+div {
+    text-align: center;
+}
+
+.Primera P {
+
+    text-align: justify;
+    margin-top: 50px;
+   padding-left: 10px; 
+   margin-right: 100px;
+   
+  
+}
+.Segunda P{
+    text-align: justify;
+    padding-right: 30px;
+
+}
